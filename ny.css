@@ -3,23 +3,19 @@
 	background-image: url(images/ny_04.jpg);
 	height: 389px;
 	width: 582px;
+	background-repeat: no-repeat;
 }
 .bg_t {
 	background-image: url(images/ny_02.jpg);
 	height: 923px;
 	width: 696px;
-	padding-right: 50px;
-	padding-left: 100px;
-	padding-bottom: 200px;
+	background-repeat: no-repeat;
 }
 .bg_t2 {
 	background-image: url(images/ny_07.jpg);
 	height: 212px;
 	width: 802px;
-	padding-right: 30px;
 	background-repeat: no-repeat;
-	padding-top: 53px;
-	padding-left: 30px;
 }
 .test_1 {
 	font-family: "微軟正黑體", Arial;
@@ -33,4 +29,14 @@
 	font-size: 14px;
 	line-height: 25px;
 	color: #FFF;
+}
+.padd_1 {
+	padding-right: 50px;
+	padding-bottom: 200px;
+	padding-left: 100px;
+}
+.padd_2 {
+	padding-right: 30px;
+	padding-top: 53px;
+	padding-left: 30px;
 }
