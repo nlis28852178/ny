@@ -14,10 +14,10 @@
         <!-- Save for Web Slices (ny.psd) -->
         <table width="1500" height="923" border="0" align="center" cellpadding="0" cellspacing="0" id="___01">
             <tr>
-                <td colspan="4">
+                <td colspan="4" bgcolor="#A42335">
                     <img src="images/ny_01.jpg" width="804" height="171" alt="" /></td>
                 <td rowspan="4" class="bg_t">
-                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
                         <tr>
                             <td class="test_1">活動期間</td>
                         </tr>
